@@ -1,0 +1,78 @@
+@media (prefers-reduced-motion: no-preference) {
+  
+  body{
+    margin: 0rem;
+    padding: 0rem;
+}
+li{
+  list-style: none;
+  font-size: 40px;
+  color: aqua;
+  
+}
+
+#banner{
+    border: 2px solid aqua;
+    
+    border-radius: 5px;
+}
+nav{
+    display: flex;
+    
+}
+li:hover{
+    color: red;
+}
+
+#music{
+  border: 3px solid aqua;
+  border-radius: 5px;
+  
+}
+
+audio{
+    border: 2px solid aqua;
+    border-radius: 100px;
+    height: 40px;
+    
+}
+form{
+    margin-left: 20px;
+}
+
+h3{
+    color: aqua;
+    margin-left: 30px;
+}
+
+  .yt{
+    margin-left: 50px;
+      text-decoration: none;
+  }
+
+  .a2{
+      text-decoration: none;
+  }
+  .mui{
+    margin-top:10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+  }
+ #cc{
+    margin-left: 105px;
+    width: 60px;
+    height: 25px;
+    border: 2px solid aqua;
+    border-radius: 5px;
+    color: aqua;
+    background-color: black;
+ }
+ #c{
+  width: 60px;
+  height: 25px;
+  border: 2px solid aqua;
+    border-radius: 5px;
+    color: aqua;
+    background-color: black;
+ }
+}
